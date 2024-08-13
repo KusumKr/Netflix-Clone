@@ -1,38 +1,33 @@
 # Netflix-Clone
 
-WELCOME TO THE NETFLIX CLONE PROJECT! 
+<h2>WELCOME TO THE NETFLIX CLONE PROJECT</h2>
 <br>
 
-This is a web application that replicates the core functionalities of Netflix, including user authentication, movie browsing, and video streaming. 
-<br>
-Built with modern web technologies, this project aims to provide a seamless and interactive user experience.
-<br>
-
-FEATURES :-
+<h4>This is a web application that replicates the core functionalities of Netflix, including user authentication, movie browsing, and video streaming.</h4>
+<h4>Built with modern web technologies, this project aims to provide a seamless and interactive user experience.</h4>
 <br>
 
-User Authentication: Shows a sign-up and login functionality.
-<br>
-Responsive UI: A sleek, responsive design that works across all devices.
-<br>
-Movie Browsing: Browse movies and TV shows by category, search for titles, and view details.
-<br>
-Video Streaming: Stream video content directly within the application.
-<br>
-Favorites & Watchlist: Add movies and TV shows to your favorites and watchlist.
+<h2>FEATURES</h2>
 <br>
 
-TECH STACK USED :-
-1. HTML
-2. CSS
+ <p>* User Authentication: Shows a sign-up and login functionality.</p>
+ <p>* Responsive UI: A sleek, responsive design that works across all devices.</p>
+ <p>* Movie Browsing: Browse movies and TV shows by category, search for titles, and view details.</p>
+ <p>* Video Streaming: Stream video content directly within the application.</p>
+<p>* Favorites & Watchlist: Add movies and TV shows to your favorites and watchlist.</p>
 <br>
 
-ACKNOWLEDGEMENTS :-
-<br>
-Inspired by Netflix
+<h2>TECH STACK USED</h2>
+<p>HTML</p>
+<p>CSS</p>
 <br>
 
-GLIMPSE :-
+<h2>ACKNOWLEDGEMENTS</h2> 
+<br>
+<p>Inspired by Netflix</p>
+<br>
+
+<h2>GLIMPSE</h2>
 <br>
 
 ![Screenshot 2024-07-26 111148](https://github.com/user-attachments/assets/812fcc39-7c43-4b02-bdcc-9a4cee32be49)
